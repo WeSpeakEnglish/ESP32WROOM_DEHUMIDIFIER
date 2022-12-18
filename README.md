@@ -1,0 +1,2 @@
+# ESP32WROOM_DEHUMIDIFIER
+DEHUMIFIER controlled over MQTT based on ESP32 (ArduinoIDE)
